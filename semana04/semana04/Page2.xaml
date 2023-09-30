@@ -4,7 +4,7 @@
              x:Class="semana04.Page2">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Page 2"
+            <Label Text="Page 2 "
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
             <Button Text="Previous Page" Clicked="OnPreviousPageButtonClicked"/>
