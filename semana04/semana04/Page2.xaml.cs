@@ -16,5 +16,10 @@ namespace semana04
         {
             InitializeComponent();
         }
+
+        async void OnPreviousPageButtonClicked(object sender, EventArgs e)
+        {
+            await Navigation.PopAsync();
+        }
     }
 }
