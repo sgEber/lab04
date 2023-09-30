@@ -8,7 +8,7 @@
         <Button x:Name="Item2" Text="TabbedPage1" />
         <Button x:Name="Item3" Text="CarouselPage" />
         <Button x:Name="Item4" Text="ModalPages" />
-        <Button x:Name="Item5" Text="DisplayAlert" />
+        <Button x:Name="Item5" Text="DisplayAlert"/>
     </StackLayout>
 
 </ContentPage>

@@ -10,7 +10,7 @@ using Xamarin.Forms.Xaml;
 namespace semana04
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class ModalPage1 : ContentView
+    public partial class ModalPage1 : ContentPage
     {
         public ModalPage1()
         {

@@ -10,7 +10,7 @@ using Xamarin.Forms.Xaml;
 namespace semana04
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class CarouselPage1 : ContentView
+    public partial class CarouselPage1 : ContentPage
     {
         public CarouselPage1()
         {
